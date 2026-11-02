@@ -2,3 +2,6 @@
 *.class
 __pycache__/
 node_modules/
+/server/test.cpp
+/server/arch.excalidraw
+server/test.cpp
